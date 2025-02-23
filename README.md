@@ -1,5 +1,6 @@
 # hotel_booking_system_analysis
 project steps
+
 1.create a problem statement
 2.identifying the data that needs to be analyzed.
 3. exploring and ceaning the data
